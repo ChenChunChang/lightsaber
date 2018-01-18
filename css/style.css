@@ -92,8 +92,8 @@ body {
 }
 
 .jedi.green .blade {
-    background-color: hsl(240, 100%, 80%);
-    box-shadow: 0 0 3rem .5rem hsla(240, 95%, 62%, 0.61);
+    background-color: hsla(240, 100%, 80%, 1);
+    box-shadow: 0 0 3rem .5rem hsla(240, 70%, 88%, 0.6);
 }
 
 .jedi .guard, .sith .guard {
